@@ -1,2 +1,2 @@
 # MyFirstRepository
-Мой первый депозиторий  GitHub
+Мой первый репозиторий  GitHub
